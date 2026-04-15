@@ -114,6 +114,7 @@ Remove `-DryRun` only when you intend to apply changes; the script will ask for 
 | `ai/ai.ps1` | Main harness |
 | `ai/ai-status.ps1` | Ollama reachability, `ollama list`, optional model warm-up |
 | `install/profile-snippet.ps1` | Example profile functions for `ai` and `aistatus` |
+| `social/` | Archived X.com and other social thread snapshots (Markdown) |
 
 ## Licence
 
