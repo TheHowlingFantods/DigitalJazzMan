@@ -1,4 +1,6 @@
-# Digital Jazz Man — local AI file-organiser harness
+# VincentAtHome
+
+Local Windows **PowerShell + Ollama** file-organiser harness (plain English in, validated moves out).
 
 Windows PowerShell scripts that pair plain-English prompts with a **local Ollama** model (for example **gemma4:e2b**) to plan folder tidy-up operations. The harness resolves paths, shows a snapshot, asks questions first, validates every action, supports **dry-run**, and only runs moves after you type **y**.
 
